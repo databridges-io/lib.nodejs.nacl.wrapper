@@ -1,0 +1,39 @@
+{
+  "name": "databridges-nacl-wrapper",
+  "version": "1.0.1",
+  "description": "DataBridges Node.js NaCl wrapper for databridges library.",
+  "keywords": [
+    "optomate",
+    "databridges",
+    "pubsub",
+    "rpc",
+    "websocket",
+    "socket.io",
+    "ws",
+    "events",
+    "realtime",
+    "real-time",
+    "nacl",
+    "encryption"
+  ],
+  "private": false,
+  "engines": {
+    "node": ">= 4.2.6"
+  },
+  "author": {
+    "name": "Optomate Technologies Private Limited.",
+    "email": "tech@optomate.io",
+    "url": "https://www.optomate.io"
+  },
+  "main": "src/databridges.nacl.wrapper.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/databridges-io/lib.nodejs.nacl.wrapper.git"
+  },
+  "homepage": "https://github.com/databridges-io/lib.nodejs.nacl.wrapper",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "dependencies": {
+  }
+}
